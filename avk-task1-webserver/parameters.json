@@ -6,31 +6,16 @@
             "value": "westeurope"
         },
         "networkInterfaceName": {
-            "value": "avk-task01-webserver806"
+            "value": "avk-task1-webserver69"
         },
         "subnetName": {
             "value": "default"
         },
-        "virtualNetworkName": {
-            "value": "avk-rg-vnet"
-        },
-        "addressPrefixes": {
-            "value": [
-                "172.19.0.0/16"
-            ]
-        },
-        "subnets": {
-            "value": [
-                {
-                    "name": "default",
-                    "properties": {
-                        "addressPrefix": "172.19.0.0/24"
-                    }
-                }
-            ]
+        "virtualNetworkId": {
+            "value": "/subscriptions/d141e78e-f7a9-4013-bb34-623f58247d8b/resourceGroups/avk-rg/providers/Microsoft.Network/virtualNetworks/avk-rg-vnet"
         },
         "publicIpAddressName": {
-            "value": "avk-task01-webserver-ip"
+            "value": "avk-task1-webserver-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
@@ -39,10 +24,10 @@
             "value": "Basic"
         },
         "virtualMachineName": {
-            "value": "avk-task01-webserver"
+            "value": "avk-task1-webserver"
         },
         "virtualMachineComputerName": {
-            "value": "avk-task01-webs"
+            "value": "avk-task1-webse"
         },
         "virtualMachineRG": {
             "value": "avk-rg"
